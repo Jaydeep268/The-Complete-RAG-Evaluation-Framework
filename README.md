@@ -823,7 +823,7 @@ Specializing in RAG Systems, LLM Evaluation, and Production AI
 💼 LinkedIn: [https://www.linkedin.com/in/jaydeepmandge268/]  
 🐙 GitHub: [https://github.com/Jaydeep268]
 
-*"I help companies build RAG systems that don't hallucinate."*
+*"I help to build RAG systems."*
 
 ---
 
