@@ -2,7 +2,7 @@
 ## From Guesswork to Metrics: A Production-Ready Guide
 
 *By Jaydeep Mandge | AI & Data Science Consultant*  
-*September 30, 2025*
+
 
 ---
 
